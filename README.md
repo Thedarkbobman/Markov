@@ -1,3 +1,3 @@
 # Markov
 Simple markov chain I made.
-Works well in certain situations.
+Works fairly well in certain situations when lots of data is available.
